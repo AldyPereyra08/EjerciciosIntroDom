@@ -1,0 +1,44 @@
+/*#titulo {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}*/
+
+body {
+    /*background-color: #636363;
+    padding: 1em;*/
+    /*font-family: Verdana, Geneva, Tahoma, sans-serif;*/
+  }
+  /*
+  #progressbar {
+    background-color: #20201F;
+    border-radius: 20px; 
+    padding: 4px;
+    width: 1000px;
+  }
+  
+  #progressbarInt{
+    background-color: #F7901E;
+    width: 0;
+    height: 16px;
+    border-radius: 10px;
+    transition: all 1s ease-out;
+  }*/
+  .iconsContainer{
+      display: inline;
+      margin: 10px;
+      background-color: lightgray;
+      border-radius: 50%;
+      height: 10px;
+      width: 10px;
+      padding: 5px;
+  }
+
+  #card{
+      border: 1px solid black;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 20px;
+      color: blueviolet;
+      text-align: center;
+      width: 50%;
+      margin: 0 auto;
+  }
